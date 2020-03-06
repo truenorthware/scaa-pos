@@ -14,7 +14,7 @@
               <h1 class="headline font-weight-medium mb-0">{{ screenTitle() }}</h1>
             </div>
           </v-card-title>
-        </v-card> -->
+        </v-card>-->
         <router-view></router-view>
       </v-content>
 
