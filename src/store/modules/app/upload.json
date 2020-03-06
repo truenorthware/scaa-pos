@@ -1,0 +1,133 @@
+{
+  "excelUploadMap": [
+    {
+      "option": "Product",
+      "key": "ProductCode",
+      "headers": [
+        {
+          "text": "ProductCode",
+          "value": "ProductCode",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "ProductName",
+          "value": "ProductName",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "ProductCategory",
+          "value": "ProductCategory",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "ProductUnit",
+          "value": "ProductUnit",
+          "width": "8vw",
+          "divider": true
+        },
+        {
+          "text": "ProductPrice",
+          "value": "UnitPrice",
+          "width": "8vw",
+          "align": "right",
+          "divider": true
+        },
+        {
+          "text": "Status",
+          "value": "Status",
+          "width": "8vw",
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "option": "Customer",
+      "key": "CustomerCode",
+      "headers": [
+        {
+          "text": "CustomerCode",
+          "value": "CustomerCode",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "CustomerName",
+          "value": "CustomerName",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "PhoneNumber",
+          "value": "PhoneNumber",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "Email",
+          "value": "Email",
+          "width": "8vw",
+          "divider": true
+        },
+        {
+          "text": "Country",
+          "value": "Country",
+          "width": "8vw",
+          "align": "right",
+          "divider": true
+        },
+        {
+          "text": "Status",
+          "value": "Status",
+          "width": "8vw",
+          "align": "center"
+        }
+      ]
+    },
+    {
+      "option": "Staff",
+      "key": "StaffCode",
+      "headers": [
+        {
+          "text": "StaffCode",
+          "value": "StaffCode",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "StaffName",
+          "value": "StaffName",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "PhoneNumber",
+          "value": "PhoneNumber",
+          "width": "10vw",
+          "divider": true
+        },
+        {
+          "text": "Email",
+          "value": "Email",
+          "width": "8vw",
+          "divider": true
+        },
+        {
+          "text": "Country",
+          "value": "Country",
+          "width": "8vw",
+          "align": "right",
+          "divider": true
+        },
+        {
+          "text": "Status",
+          "value": "Status",
+          "width": "8vw",
+          "align": "center"
+        }
+      ]
+    }
+  ]
+}

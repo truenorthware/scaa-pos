@@ -1,0 +1,52 @@
+{
+  "topMenuItems": [
+    {
+      "name": "pos",
+      "title": "pos",
+      "icon": "fas fa-heart",
+      "link": "/pos-terminal"
+    },
+    {
+      "name": "dashboard",
+      "title": "dashboard",
+      "icon": "fas fa-home",
+      "link": "/dashboard"
+    },
+    {
+      "name": "customer",
+      "title": "customer",
+      "icon": "fas fa-home",
+      "link": "/customer"
+    },
+    {
+      "name": "staff",
+      "title": "staff",
+      "icon": "fas fa-home",
+      "link": "/staff"
+    },
+    {
+      "name": "products",
+      "title": "products",
+      "icon": "far fa-heart",
+      "link": "/products"
+    },
+    {
+      "name": "purchase",
+      "title": "purchase",
+      "icon": "far fa-heart",
+      "link": "/purchase"
+    },
+    {
+      "name": "posting",
+      "title": "posting",
+      "icon": "far fa-heart",
+      "link": "/posting"
+    },
+    {
+      "name": "Upload",
+      "title": "Upload",
+      "icon": "far fa-heart",
+      "link": "/upload-excel"
+    }
+  ]
+}
